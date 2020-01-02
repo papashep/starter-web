@@ -11,4 +11,12 @@ Another line of text
 Another line of text
 Another line of text
 Another line of text
+Some more lines of text
+Some more lines of text
+Some more lines of text
+Some more lines of text
+What more lines added before the commit but after the git add command
+What more lines added before the commit but after the git add command
+What more lines added before the commit but after the git add command
+What more lines added before the commit but after the git add command
 
